@@ -7,6 +7,13 @@
     <name>PHR_java-webservice-hw</name>
     <version>1.0.0</version>
     <description>Sample Web Service(REST)</description>
+    
+    <scm>
+        <connection>scm:git:git@github.com:phresco/java-webservice-hw.git</connection>
+        <developerConnection>scm:git:git@github.com:phresco/java-webservice-hw.git</developerConnection>
+        <url>https://github.com/phresco/java-webservice-hw</url>
+    </scm>
+    
     <build>
         <directory>do_not_checkin/target</directory>
         <finalName>service</finalName>
